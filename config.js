@@ -38,13 +38,12 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: false
+        
+  "identifier": "LewdHuTao - Lavalink",
+  "password": "youshallnotpass",
+  "host": "node.lewdhutao.my.eu.org",
+  "port": 80,
+  "secure": false
     },
  ]
 }
